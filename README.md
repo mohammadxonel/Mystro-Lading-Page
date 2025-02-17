@@ -5,7 +5,7 @@
 
 
 
-### [site demo](https://mohammadxxali.github.io/Mystro-Lading-Page/)
+### [site demo](https://mohammadxonel.github.io/Mystro-Lading-Page/)
 
 ### project screenshot
-![](https://github.com/mohammadxxali/Mystro-Lading-Page/blob/main/screenshot.png)
+![](https://github.com/mohammadxonel/Mystro-Lading-Page/blob/main/screenshot.png)
